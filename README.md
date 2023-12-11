@@ -67,8 +67,8 @@ The find_longest_compounded function iterates through the list of words, using t
 
 
 ## Contact
-LinkedIn: [https://www.linkedin.com/in/aditisaraswat/]
-Email: [saraswataditi2002@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/aditisaraswat/)
+[Email me](mailto:saraswataditi2002@gmail.com)
 Thank you for considering my application. If you have any questions or need further clarification, feel free to reach out.
 
 Best regards,
